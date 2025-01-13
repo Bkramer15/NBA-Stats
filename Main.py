@@ -93,6 +93,7 @@ class PlayerStats:
         else:
             return "Player not found"
 
+    #thismethod
 
 # Callback to handle user interaction and dynamic updates
 @app.callback(
